@@ -41,7 +41,7 @@ button{
     padding: 0 30px;
     border-top: dashed 2px rgba(255, 255, 255, 0.5);
     border-bottom: dashed 2px rgba(255, 255, 255, 0.5);
-    line-height: 1;
+    line-height: 42px;
 }
 
 .ribbon:before, .ribbon:after {
