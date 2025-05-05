@@ -108,6 +108,13 @@ label[for="user-no"] {
     font-size: 1.25rem;
 }
 
+.user-no-area {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    gap: .5em;
+}
+
 input[name="user-no"] {
     padding: 8px 10px;
     border: 1px solid #969da3;
@@ -116,6 +123,7 @@ input[name="user-no"] {
     font-size: 1em;
     line-height: 1.5;
     font-family: "Yomogi", cursive;
+    width: 125px;
 }
 
 .btn-area {
